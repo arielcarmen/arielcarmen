@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ariel Carmen</h1>
-<h3 align="center">Backend developer, Mobile apps & Blockchain Enthusiast</h3>
+### Hello World! 
+  ![](https://komarev.com/ghpvc/?username=arielcarmen&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
+  - 🔭 I’m currently a Software Engineering student at [IFRI-UAC](https://ifri-uac.bj/).
+  - 🌱 I’m currently learning Mobile Applications and Blockchain development
+  - 💬 Ask me about [MCU]([https://youtu.be/9XFyngt1dk0?t=1268](https://www.marvel.com/movies)) and [Eve]([https://www.chess.com/member/sciencepal](https://www.youtube.com/@ooo0eve0ooo))
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: All my names are most used for women
+  
+  #### 📫 How to reach me:
+  
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/7PMgM3k6)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/arielcarmen0)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ariel-carmen-ahognisse/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/nearsan03/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nearsan03/)  &nbsp; <a href="mailto:arielahognisse@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-<p align="left"> <a href="https://twitter.com/arielcarmen0" target="blank"><img src="https://img.shields.io/twitter/follow/arielcarmen0?logo=twitter&style=for-the-badge" alt="arielcarmen0" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arielcarmen0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arielcarmen0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ariel-carmen-ahognisse-77766319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariel-carmen-ahognisse-77766319b" height="30" width="40" /></a>
-</p>
-
-## 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
