@@ -3,7 +3,7 @@
 ### 👨🏾‍💻 Who i am
   - 🔭 I’m currently a Software Engineering student at [IFRI-UAC](https://ifri-uac.bj/).
   - 🌱 I’m currently learning Mobile Applications and Blockchain development
-  - 💬 Ask me about [MCU]([https://youtu.be/9XFyngt1dk0?t=1268](https://www.marvel.com/movies)) and [Eve]([https://www.chess.com/member/sciencepal](https://www.youtube.com/@ooo0eve0ooo))
+  - 💬 Ask me about [MCU](https://www.marvel.com/movies) and [Eve](https://www.youtube.com/@ooo0eve0ooo)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: All my names are most used for women
   
