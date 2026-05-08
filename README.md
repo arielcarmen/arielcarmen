@@ -3,7 +3,7 @@
 ### 👨🏾‍💻 Who i am
   - 🔭 I’m currently a Software Engineering student at [IFRI-UAC](https://ifri-uac.bj/).
   - 🌱 I’m currently learning Mobile Applications and Blockchain development
-  - 💬 Ask me about [MCU](https://www.marvel.com/movies) and [Eve](https://www.youtube.com/@ooo0eve0ooo)
+  - 💬 Ask me about [MCU](https://www.marvel.com/movies), [Eve](https://www.youtube.com/@ooo0eve0ooo) and TUNIC
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: All my names are most used for women
   
@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
